@@ -31,5 +31,8 @@ Welcome to my profile! I am Camille, a Junior AI Developer / Data Operator looki
   <div>
 
     <code><img height="25" alt="Git" src="assets/icons/git.svg"></code>
+    <code><img height="25" alt="Visual Studio Code" src="assets/icons/vscode.svg"></code>
+    <code><img height="25" alt="Docker" src="assets/icons/docker.svg"></code>
     <code><img height="25" alt="MongoDB" src="assets/icons/mongodb.svg"></code>
+    <code><img height="25" alt="Jupyter" src="assets/icons/jupyter.svg"></code>
   </div>
