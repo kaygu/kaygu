@@ -1,6 +1,6 @@
 # Hello!
 
-Welcome to my profile! I am Camille, a Junior AI Developer / Data Operator looking for internship
+Welcome to my profile! I am Camille, a Junior AI Developer / Data Operator looking for a job
 
 💼  Feel free to send me an [email](mailto:camille.deneef@gmail.com) for any freelance work or job offer
 
