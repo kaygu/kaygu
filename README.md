@@ -1,8 +1,8 @@
-# Hello!
+# Welcome to my profile
 
-Welcome to my profile! I am Camille, a Junior AI Developer / Data Operator looking for a job
+ I am Camille, I am looking for a job as a Python Developper / Data Operator / Game Developper !
 
-💼  Feel free to send me an [email](mailto:camille.deneef@gmail.com) for any freelance work or job offer
+💼  Feel free to send me an [email](mailto:camille.deneef@gmail.com) for any job offer or freelance work
 
 <a href="https://discordapp.com/users/161250081264107520">
   <img align="left" alt="Discord" width="20px" src="assets/icons/socials/discord.svg" />
