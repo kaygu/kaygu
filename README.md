@@ -16,7 +16,7 @@
 <br />
 <br />
 
-<img align="right" alt= "Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaygu&layout=compact&hide=jupyter%20notebook" />
+<img align="right" alt= "Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaygu&layout=compact&hide=jupyter%20notebook,ShaderLab" />
 
 ## Technologies I love
 
@@ -26,6 +26,7 @@
     <code><img height="25" alt="Python" src="assets/icons/py.svg"></code>
     <code><img height="25" alt="NodeJS" src="assets/icons/nodejs.svg"></code>
     <code><img height="25" alt="C" src="assets/icons/c.svg"></code>
+    <code><img height="25" alt="C" src="assets/icons/csharp.svg"></code>
   </div>
 - Tools
   <div>
@@ -35,4 +36,5 @@
     <code><img height="25" alt="Docker" src="assets/icons/docker.svg"></code>
     <code><img height="25" alt="MongoDB" src="assets/icons/mongodb.svg"></code>
     <code><img height="25" alt="Jupyter" src="assets/icons/jupyter.svg"></code>
+    <code><img height="25" alt="Jupyter" src="assets/icons/unity.svg"></code>
   </div>
