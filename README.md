@@ -7,9 +7,6 @@
 <a href="https://discordapp.com/users/161250081264107520">
   <img align="left" alt="Discord" width="20px" src="assets/icons/socials/discord.svg" />
 </a>
-<a href="https://twitter.com/kaaygu">
-  <img align="left" alt="Twitter" width="20px" src="assets/icons/socials/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/camille-de-neef-60890a2b/">
   <img align="left" alt="LinkedIn" width="20px" src="assets/icons/socials/linkedin.svg" />
 </a>
@@ -26,7 +23,7 @@
     <code><img height="25" alt="Python" src="assets/icons/py.svg"></code>
     <code><img height="25" alt="NodeJS" src="assets/icons/nodejs.svg"></code>
     <code><img height="25" alt="C" src="assets/icons/c.svg"></code>
-    <code><img height="25" alt="C" src="assets/icons/csharp.svg"></code>
+    <code><img height="25" alt="CSharp" src="assets/icons/csharp.svg"></code>
   </div>
 - Tools
   <div>
